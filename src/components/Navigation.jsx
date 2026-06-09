@@ -1,7 +1,7 @@
 export function Navigation() {
   return (
-    <nav className="fixed top-0 w-full z-50 border-b border-outline-variant glass-nav">
-      <div className="flex justify-between items-center px-6 md:px-margin-desktop py-4 max-w-container-max mx-auto">
+    <nav className="fixed top-0 left-0 right-0 z-50 border-b border-outline-variant glass-nav">
+      <div className="flex justify-between items-center px-6 md:px-16 py-4 max-w-7xl mx-auto w-full">
         <span className="font-display-lg text-headline-md text-primary-container tracking-tighter uppercase">
           WARRIOR SPIRIT
         </span>

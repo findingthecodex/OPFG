@@ -8,17 +8,17 @@ export function CTASection() {
           alt="Background"
         />
       </div>
-      <div className="relative z-10 text-center px-6">
-        <h2 className="font-display-lg text-5xl md:text-display-lg uppercase leading-tight mb-8">
+      <div className="relative z-10 text-center px-6 max-w-4xl mx-auto">
+        <h2 className="font-display-lg text-4xl md:text-6xl uppercase leading-tight mb-8 font-bold">
           ÄR DU REDO ATT HITTA DIN <br />
           <span className="text-primary-container">KRIGARSKJÄL?</span>
         </h2>
-        <p className="font-body-lg mb-10 max-w-2xl mx-auto">
+        <p className="font-body-lg mb-10 text-base md:text-lg">
           Ta första steget mot en starkare version av dig själv. Vi erbjuder
           provträning för alla nya medlemmar.
         </p>
         <div className="inline-block p-1 border-2 border-primary-container">
-          <button className="bg-primary-container text-white px-16 py-6 font-display-lg text-headline-md tracking-widest hover:bg-white hover:text-primary-container transition-all duration-500 uppercase">
+          <button className="bg-primary-container text-white px-12 md:px-16 py-4 md:py-6 font-bold text-lg md:text-xl tracking-widest hover:bg-white hover:text-primary-container transition-all duration-500 uppercase">
             BOKA PROVTRÄNING NU
           </button>
         </div>

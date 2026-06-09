@@ -24,10 +24,10 @@ export function CoachesSection() {
   ];
 
   return (
-    <section className="bg-surface-container-low py-section-gap">
-      <div className="px-6 md:px-margin-desktop max-w-container-max mx-auto">
+    <section className="bg-surface-container-low py-20">
+      <div className="px-6 md:px-16 max-w-7xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="font-display-lg text-headline-lg uppercase mb-4">
+          <h2 className="font-display-lg text-4xl md:text-5xl uppercase mb-4 font-bold">
             MÖT DINA COACHER
           </h2>
           <div className="w-24 h-1 bg-primary-container mx-auto"></div>

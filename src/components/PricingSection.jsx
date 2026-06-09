@@ -41,12 +41,12 @@ export function PricingSection() {
   ];
 
   return (
-    <section className="py-section-gap px-6 md:px-margin-desktop max-w-container-max mx-auto">
-      <div className="text-center mb-20">
-        <h2 className="font-display-lg text-headline-lg uppercase mb-4">
+    <section className="py-20 px-6 md:px-16 max-w-7xl mx-auto">
+      <div className="text-center mb-16">
+        <h2 className="font-display-lg text-4xl md:text-5xl uppercase mb-4 font-bold">
           VÄLJ DIN NIVÅ
         </h2>
-        <p className="font-body-lg text-on-surface-variant max-w-xl mx-auto">
+        <p className="font-body-lg text-on-surface-variant max-w-xl mx-auto text-base md:text-lg">
           Vi har paket som passar alla från nybörjare till professionella
           fighters.
         </p>

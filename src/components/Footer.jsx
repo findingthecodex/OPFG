@@ -1,7 +1,7 @@
 export function Footer() {
   return (
     <footer className="bg-surface-container-lowest border-t border-outline-variant">
-      <div className="max-w-container-max mx-auto px-6 md:px-margin-desktop py-16 flex flex-col md:flex-row justify-between items-start md:items-center gap-10">
+      <div className="max-w-7xl mx-auto px-6 md:px-16 py-16 flex flex-col md:flex-row justify-between items-start md:items-center gap-10">
         <div className="max-w-xs">
           <span className="font-display-lg text-headline-md text-on-surface tracking-tighter uppercase">
             WARRIOR SPIRIT
@@ -74,7 +74,7 @@ export function Footer() {
           </div>
         </div>
       </div>
-      <div className="max-w-container-max mx-auto px-6 md:px-margin-desktop pb-10 flex justify-between items-center border-t border-outline-variant/30 pt-10">
+      <div className="max-w-7xl mx-auto px-6 md:px-16 pb-10 flex justify-between items-center border-t border-outline-variant/30 pt-10">
         <span className="font-label-md text-on-surface-variant text-xs opacity-60">
           © 2024 WARRIOR SPIRIT ACADEMY. ALL RIGHTS RESERVED.
         </span>

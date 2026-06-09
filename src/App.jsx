@@ -39,7 +39,7 @@ function App() {
   return (
     <>
       <Navigation />
-      <main className="pt-16">
+      <main>
         <HeroSection />
         <StatisticsSection />
         <DisciplinesSection />

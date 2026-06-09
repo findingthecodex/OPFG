@@ -6,6 +6,16 @@ export default {
   ],
   theme: {
     extend: {
+      maxWidth: {
+        "container": "1280px",
+      },
+      padding: {
+        "desktop": "64px",
+        "mobile": "20px",
+      },
+      gap: {
+        "section": "120px",
+      },
       colors: {
         "outline": "#ac8884",
         "error-container": "#93000a",

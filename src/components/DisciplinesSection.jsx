@@ -33,22 +33,20 @@ export function DisciplinesSection() {
   ];
 
   return (
-    <section className="py-section-gap px-6 md:px-margin-desktop max-w-container-max mx-auto">
-      <div className="flex justify-between items-end mb-16">
-        <div>
-          <span className="font-label-md text-primary-container uppercase tracking-widest">
-            Våra Program
-          </span>
-          <h2 className="font-display-lg text-headline-lg uppercase mt-2">
-            DÄR TEKNIK MÖTER KRAFT
-          </h2>
-        </div>
+    <section className="py-20 px-6 md:px-16 max-w-7xl mx-auto">
+      <div className="mb-16">
+        <span className="font-label-md text-primary-container uppercase tracking-widest text-sm">
+          Våra Program
+        </span>
+        <h2 className="font-display-lg text-4xl md:text-5xl uppercase mt-4 font-bold">
+          DÄR TEKNIK MÖTER KRAFT
+        </h2>
       </div>
-      <div className="grid grid-cols-1 md:grid-cols-12 gap-6 h-auto md:h-96 md:h-[800px]">
+      <div className="grid grid-cols-1 md:grid-cols-12 gap-6 auto-rows-[300px]">
         {disciplines.map((discipline, idx) => (
           <div
             key={idx}
-            className={`${discipline.span} group relative overflow-hidden bg-surface-container border border-outline-variant`}
+            className={`${discipline.span} group relative overflow-hidden bg-surface-container border border-outline-variant rounded-sm hover:border-primary-container transition-colors`}
           >
             <img
               className="absolute inset-0 w-full h-full object-cover noir-filter opacity-60 group-hover:scale-105 transition-transform duration-700"
