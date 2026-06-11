@@ -29,7 +29,7 @@ export default {
         "on-secondary-fixed": "#231b00",
         "tertiary-fixed-dim": "#c6c6c7",
         "on-background": "#e5e2e1",
-        "primary-container": "#dc2626",
+        "primary-container": "#939393",
         "on-tertiary-fixed": "#1a1c1c",
         "on-secondary-fixed-variant": "#574500",
         "tertiary-container": "#717272",
