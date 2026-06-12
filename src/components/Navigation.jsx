@@ -16,29 +16,29 @@ export function Navigation() {
             className="text-on-surface hover:text-primary-container transition-colors font-label-md"
             href="#"
           >
-            CLASSES
+            KLASSER
           </a>
           <a
             className="text-on-surface hover:text-primary-container transition-colors font-label-md"
             href="#"
           >
-            TRAINERS
+            TRÄNARE
           </a>
           <a
             className="text-on-surface hover:text-primary-container transition-colors font-label-md"
             href="#"
           >
-            SCHEDULE
+            SCHEMA
           </a>
           <a
             className="text-on-surface hover:text-primary-container transition-colors font-label-md"
             href="#"
           >
-            MEMBERSHIP
+            MEDLEMSKAP
           </a>
         </div>
         <button className="bg-primary-container text-on-primary-container px-6 py-2 font-display-lg text-label-md hover:brightness-110 active:scale-95 transition-all duration-300">
-          JOIN ACADEMY
+          BLI MEDLEM
         </button>
       </div>
     </nav>
