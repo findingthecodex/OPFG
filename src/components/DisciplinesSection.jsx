@@ -1,31 +1,31 @@
 export function DisciplinesSection() {
   const disciplines = [
     {
-      title: "MMA",
+      title: "MUAY THAI",
       image:
-        "https://lh3.googleusercontent.com/aida-public/AB6AXuBeu_jAwAxfV3jTu-R7G7jT_jD_9uRrYA-Iv3ThR6E7YFUkuV6pf2uEbuiA3LJDw8IltdN7O27MHiAIeRrfYy-q1a_kswqjICbfwlkMeGL1rEz8beAwjytisJkNC0qJYaHOiHDFE7MDb_fF_DPvBgr27mceOVCWldyGO5Tnqf-CKpMSlQ__RN_js90AwZ0Dw1CMGHyjZjB0D7bm-ZMLfI2MQkkI9JDDWe2-imnUjRN6rCzgV5plxGUTp1jKAIcN5uZY4TLc8vq4DS4J",
+          "https://lh3.googleusercontent.com/aida-public/AB6AXuCfUh4RAQc1TYIMkgEsbp_92aGL9rLQO6HOOFs7jtzU0bZd5jOv4AumO6EpXQnMWGpnN_eSkVGKJ6fTahb8UhN97ZS6VnVoOS_41NIOlkBcJ6hjhQxuIXxUOExh4kqolUOKj0Hw6q4JhhmfVsnqT4EpODK3C-JjdsR-noFAj78V8HSJfeWej13bhcbC56QonoP7-xO9T9tEIjNe6GJnvxjAvWcvOx1zuKCjuooFFHuFJPzr2fdRexvbL4U-Psm1K7vVbNLDRS1TqGGj",
       description:
-        "Komplett träning för den moderna fightern. Vi kombinerar stående tekniker med avancerad markkamp.",
+          "The Art of Eight Limbs. Traditionell thailändsk boxning med fokus på knän, armbågar och explosivitet.",
       span: "md:col-span-8",
     },
     {
-      title: "BOXNING",
+      title: "MORGONFYS",
       image:
         "https://lh3.googleusercontent.com/aida-public/AB6AXuBgjkBB5Z33gQDDvQ4OrL89gFN5IvB1qvJYi50oIsvqCuHHqeM9s0_1hDVBWWz8XVh0czzMRaVCFKm6p3StpU5Ui-i9iH6f7IROXEaghCHwuToPcUtWRNAEhTpWlfXiDJrHp0OCWfVmsp5a9cetT-bWMDh-qqt8ls0Wqk2FOeqoliikyleCzDeShYp4Jla7v41zeWOP3a48TSvZOA3T7_M-tD3RDeS2haTs2OZjwBqM5TZdgR2ks_FS76uBlOZQBBjl1e2aFalcY6Yo",
       description: "",
       span: "md:col-span-4",
     },
     {
-      title: "BJJ",
+      title: "LUNCH THAI",
       image:
         "https://lh3.googleusercontent.com/aida-public/AB6AXuDht6Nt5dabBGwfr_3EIVBp0IEtc7iGI_3AAAT0kNpW-4f4pR-HHjqYl2WDvqB_P5ZAnXPEgj5E-dHm17w28pLREBNS6TJhcUNY59JaVIBBk0YTgfD5KrK9zAYNOEtzA2i2GSFNjnnRIsH_Nbyjz-WCwb2A--KmT6giACHw2JHm3HxUBewkNx3CT-RhlwQluUpPcn9x43NBIujpVeZoFu3oMWKkFwMCdM2YRv-8teck-wKxDfeuDwCfdDNe5eXyU5YujtbyGMxBocur",
       description: "",
       span: "md:col-span-4",
     },
     {
-      title: "MUAY THAI",
-      image:
-        "https://lh3.googleusercontent.com/aida-public/AB6AXuCfUh4RAQc1TYIMkgEsbp_92aGL9rLQO6HOOFs7jtzU0bZd5jOv4AumO6EpXQnMWGpnN_eSkVGKJ6fTahb8UhN97ZS6VnVoOS_41NIOlkBcJ6hjhQxuIXxUOExh4kqolUOKj0Hw6q4JhhmfVsnqT4EpODK3C-JjdsR-noFAj78V8HSJfeWej13bhcbC56QonoP7-xO9T9tEIjNe6GJnvxjAvWcvOx1zuKCjuooFFHuFJPzr2fdRexvbL4U-Psm1K7vVbNLDRS1TqGGj",
+      title: "JUNIOR",
+      image: 
+          "https://lh3.googleusercontent.com/aida-public/AB6AXuBeu_jAwAxfV3jTu-R7G7jT_jD_9uRrYA-Iv3ThR6E7YFUkuV6pf2uEbuiA3LJDw8IltdN7O27MHiAIeRrfYy-q1a_kswqjICbfwlkMeGL1rEz8beAwjytisJkNC0qJYaHOiHDFE7MDb_fF_DPvBgr27mceOVCWldyGO5Tnqf-CKpMSlQ__RN_js90AwZ0Dw1CMGHyjZjB0D7bm-ZMLfI2MQkkI9JDDWe2-imnUjRN6rCzgV5plxGUTp1jKAIcN5uZY4TLc8vq4DS4J",
       description:
         "The Art of Eight Limbs. Traditionell thailändsk boxning med fokus på knän, armbågar och explosivitet.",
       span: "md:col-span-8",
