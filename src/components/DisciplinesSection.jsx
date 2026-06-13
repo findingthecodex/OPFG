@@ -16,7 +16,7 @@ export function DisciplinesSection() {
       span: "md:col-span-4",
     },
     {
-      title: "LUNCH THAI",
+      title: "LUNCH THAI2",
       image:
         "https://lh3.googleusercontent.com/aida-public/AB6AXuDht6Nt5dabBGwfr_3EIVBp0IEtc7iGI_3AAAT0kNpW-4f4pR-HHjqYl2WDvqB_P5ZAnXPEgj5E-dHm17w28pLREBNS6TJhcUNY59JaVIBBk0YTgfD5KrK9zAYNOEtzA2i2GSFNjnnRIsH_Nbyjz-WCwb2A--KmT6giACHw2JHm3HxUBewkNx3CT-RhlwQluUpPcn9x43NBIujpVeZoFu3oMWKkFwMCdM2YRv-8teck-wKxDfeuDwCfdDNe5eXyU5YujtbyGMxBocur",
       description: "",
