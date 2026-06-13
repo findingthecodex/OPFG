@@ -1,3 +1,5 @@
+import heroImage from "../assets/images/opfg1.png";
+
 export function HeroSection() {
   return (
     <section className="relative pt-20 min-h-screen flex items-center justify-center overflow-hidden">
@@ -5,9 +7,9 @@ export function HeroSection() {
         <img
           alt="Hero martial arts"
           className="w-full h-full object-cover"
-          src="https://lh3.googleusercontent.com/aida/AP1WRLsnrOz0DxrQH_aoPb57I1xwkwfQO2aRUWwH0Hh_CUHaJw6YMOaRuHt-B8iMJPGiTa7ppC0hQuXvHT-qGy7My6ZUFKBpaneJyYuMpWTYATrEuWAMP11ycQoYqsEJbwjZ7cjrXvmDhfc9e7lXRNcqHW9hRk4NTwzaH-VyZgo0Px5rvJdythye55a1wkjHFmIhulCqI7keaakafF8PRf3DMgHQwy-0U3Mtfb8Mk9O1zWnQAL5szvg5IxT4gFi5"
+          src={heroImage}
         />
-        <div className="absolute inset-0 bg-gradient-to-r from-black via-black/60 to-transparent"></div>
+        <div className="absolute inset-0 bg-linear-to-r from-black via-black/60 to-transparent"></div>
       </div>
       <div className="relative z-10 px-6 md:px-16 w-full max-w-7xl mx-auto">
         <div className="max-w-2xl">
